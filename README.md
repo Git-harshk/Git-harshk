@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Harsh Kumar Kandhway
 
-🎓 B.Tech CSE Graduate | 💻 Full Stack Developer | 🤖 ML Enthusiast
-🚀 Passionate about building scalable web products and AI-powered tools.
-💼 Open for Entry-level Developer roles, Internships, and Freelance projects.
+🎓 B.Tech CSE Graduate  
+🛠 Backend Developer specializing in **ASP.NET Core, C#, SQL, REST APIs**  
+⚙️ Experience with **caching layers, background processing, logging patterns, and scalable system design**
 
-### 🔥 Projects  
-- **CoinSnap:** Real-time crypto tracker with live price streaming  
-- **Hybrid Recommendation System:** Content-based recommender deployed on Streamlit Cloud 👉 https://recommendation-system-harshkk.streamlit.app/ 
+I enjoy building **high-performance backend systems**, working with **distributed components**, and designing 
+clean, maintainable architecture.  
+Open to **backend developer roles, internships, and technical collaborations**.
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/harsh-kumar-kandhway-106303309/) 
+📫 Connect with me on: [LinkedIn](https://www.linkedin.com/in/harsh-kumar-kandhway-106303309/) 
